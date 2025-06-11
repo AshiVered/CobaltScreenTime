@@ -2,7 +2,6 @@
 # CobaltScreenTime
 
 **CobaltScreenTime** is a Windows utility for managing and restricting computer usage time.  
-It provides flexible scheduling options to help enforce healthy screen time limits, especially for shared or family computers.
 
 ---
 
@@ -20,20 +19,6 @@ It provides flexible scheduling options to help enforce healthy screen time limi
 
 ---
 
-## ⚙️ Installation
-
-1. Clone the repository or download the latest release.
-2. Make sure you have Python 3.8+ installed.
-3. Install required dependencies (if any):
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the script with administrative privileges:
-   ```bash
-   python cobalt_screentime.py
-   ```
-
----
 
 ## 🧩 Usage Example
 
@@ -61,16 +46,6 @@ To block user access from **01:00 AM to 06:00 AM**, and ensure they are logged o
 
 ## 📁 License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the GNU GPL V3 License. See [LICENSE](LICENSE) for details.
 
 ---
-
-## 🧠 Inspiration
-
-Created as a lightweight tool to assist with screen time limitations at the operating system level, without the need for third-party monitoring or background services.
-
----
-
-## 📞 Support
-
-For questions, suggestions or bug reports, please open an issue in the [GitHub repository](https://github.com/your-username/CobaltScreenTime).
