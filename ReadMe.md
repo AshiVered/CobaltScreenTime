@@ -26,7 +26,7 @@ To block user access from **01:00 AM to 06:00 AM**, and ensure they are logged o
 
 1. Set login restriction for the desired user between `01:00`–`06:00`.
 2. Set a scheduled reboot at `01:00`.
-3. (Optional) Enable a warning message to be displayed at `00:55`.
+3. (Optional) Enable a warning message to be displayed at `00:59`.
 
 > ⚠️ The login restriction **only blocks new logins** — it doesn't affect users already signed in.  
 > To enforce logout, combine it with the reboot feature.
@@ -49,3 +49,4 @@ To block user access from **01:00 AM to 06:00 AM**, and ensure they are logged o
 This project is licensed under the GNU GPL V3 License. See [LICENSE](LICENSE) for details.
 
 ---
+
